@@ -1,300 +1,220 @@
-```markdown
 <div align="center">
 
-# Hi, I'm Basmala Azab Mohamed
-
-### AI Engineer & Data Scientist
-
-Building intelligent solutions with **Machine Learning, Deep Learning, LLMs, Computer Vision & AWS**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0A66C2&height=220&section=header&text=Basmala%20Azab%20Mohamed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20MLOps&descAlignY=55&descSize=18" width="100%"/>
 
 <br>
 
-<a href="https://www.linkedin.com/in/basmala-azab-931a56314/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/basmalaazabmohamed-commits">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://huggingface.co/Basmala11">
-<img src="https://img.shields.io/badge/Hugging%20Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</a>
-<a href="https://basmalaazabmohamed-commits.github.io/Portfolio">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+with+AI;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Computer+Vision+%7C+NLP+%7C+AWS+MLOps;Turning+Data+into+Real-World+Solutions" alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/basmala-azab-931a56314/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/basmalaazabmohamed-commits"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://huggingface.co/Basmala11"><img src="https://img.shields.io/badge/Hugging%20Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+<a href="https://basmalaazabmohamed-commits.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:Basmala.azab.mohamed@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=basmalaazabmohamed-commits&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="profile views"/>
 
 </div>
 
----
+<br>
 
 ## 👩‍💻 About Me
 
-I'm an **AI Engineer & Data Scientist** passionate about building practical,
-data-driven AI systems that solve real-world problems.
+```yaml
+name: Basmala Azab Mohamed
+role: AI Engineer & Data Scientist
+location: Egypt
+university: Al-Ryada University for Science and Technology (2023 – 2027)
+gpa: 3.68 / 4.00
+focus: [Machine Learning, Deep Learning, LLMs, NLP, Computer Vision, AWS MLOps]
+currently_learning: [Generative AI, AI Agents, Advanced MLOps]
+```
 
-My experience and interests span across:
+I'm an **AI Engineer & Data Scientist** who loves turning messy real-world data into practical, deployed AI systems — from the first line of preprocessing code to a live API in the cloud.
 
-- 🤖 Machine Learning & Deep Learning
-- 🧠 Generative AI & Large Language Models
-- 🔤 Natural Language Processing
-- 👁️ Computer Vision
-- ☁️ AWS Cloud & MLOps
-- 📊 Data Science & Data Analysis
-- 🚀 AI Model Deployment & APIs
-- 🔗 AI Agents & Intelligent Applications
+- 🔭 Currently building **end-to-end AI systems**: data → model → deployment → automation
+- 🤖 Deep interest in **Generative AI, LLMs, and AI Agents**
+- ☁️ Hands-on with **AWS SageMaker** and reproducible MLOps pipelines
+- 🌱 AWS AI & ML Scholar, currently sharpening cloud-native ML skills
+- 💬 Ask me about **Machine Learning, NLP, Computer Vision, or AWS SageMaker**
 
-I'm particularly interested in building **end-to-end AI systems** —
-from data preprocessing and model development to deployment, automation,
-and scalable cloud workflows.
+<br>
 
----
-
-## 🧠 AI & Machine Learning
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn&theme=light" />
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,r,html,css&theme=light" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=opencv&theme=light" />
+**AI / Machine Learning / Deep Learning**
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=light" />
 
-</div>
+<br><br>
 
-### Core AI Areas
-
-`Machine Learning` · `Deep Learning` · `Transformers` · `LLMs` · `NLP` · `Computer Vision`
-
-`Feature Engineering` · `Model Evaluation` · `Data Preprocessing` · `Model Deployment`
-
----
-
-## ☁️ Cloud, MLOps & Backend
-
-<div align="center">
-
+**Cloud, MLOps & Backend**
+<br>
 <img src="https://skillicons.dev/icons?i=aws,docker,fastapi,git,github&theme=light" />
 
-</div>
-
-### AWS & MLOps
-
-- Amazon SageMaker AI
-- SageMaker Studio
-- SageMaker Python SDK
-- SageMaker Pipelines
-- ML Workflow Automation
-- Model Training & Evaluation
-- Model Deployment
-- Reproducible ML Pipelines
-- End-to-End MLOps Workflows
-
----
-
-## 📊 Data Science & Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,r,java,javascript,typescript,html,css&theme=light" />
-
 <br><br>
 
+**Data & App Frameworks**
+<br>
 <img src="https://skillicons.dev/icons?i=react,sql,streamlit&theme=light" />
 
 </div>
 
-### Data & Development Tools
+<details>
+<summary><b>📋 Full skill list (click to expand)</b></summary>
+<br>
 
-`Pandas` · `NumPy` · `Scikit-learn` · `Power BI`
+| Category | Skills |
+|---|---|
+| **Programming** | Python, R, C++, Java, JavaScript, TypeScript |
+| **AI / ML** | TensorFlow, PyTorch, Scikit-learn, Transformers, Machine Learning, Deep Learning |
+| **NLP & Vision** | NLP, Computer Vision, OpenCV, DeepFace, Whisper |
+| **Generative AI** | LLMs, Prompt Engineering, Gemini API, AI Agents |
+| **Data** | Pandas, NumPy, SQL, Power BI, Data Visualization |
+| **Cloud & MLOps** | AWS, Amazon SageMaker, SageMaker Pipelines, Docker, Model Deployment |
+| **Frameworks & Tools** | FastAPI, Streamlit, React Native, Windows Forms, Git, GitHub |
 
-`SQL` · `Data Visualization` · `API Integration`
+</details>
 
-`Streamlit` · `FastAPI` · `React Native` · `Windows Forms`
+<br>
 
----
+## 🚀 Featured Projects
 
-# 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🛡️ Insurance Fraud Detection — AWS MLOps
+### 🛡️ [Insurance Fraud Detection](https://github.com/basmalaazabmohamed-commits)
+**End-to-end AWS MLOps pipeline**
+<br>
+`Python` `Scikit-learn` `SageMaker` `SageMaker Pipelines`
 
-End-to-end machine learning pipeline for detecting potentially fraudulent
-insurance claims.
+Automated fraud classification pipeline covering EDA, feature engineering, model evaluation, and reproducible ML workflows built with the SageMaker Python SDK.
 
-**Key Technologies**
+</td>
+<td width="50%" valign="top">
 
-`Python` · `Scikit-learn` · `Amazon SageMaker` · `SageMaker Pipelines`
+### 🎤 [HireSense AI](https://github.com/basmalaazabmohamed-commits)
+**Multimodal Interview Feedback Analyzer**
+<br>
+`Whisper` `OpenCV` `DeepFace` `FastAPI` `TensorFlow`
 
-**Highlights**
+Analyzes interview videos end-to-end: speech transcription, facial emotion analysis, sentiment scoring, and AI-generated feedback on an interactive dashboard.
 
-- Exploratory Data Analysis
-- Data preprocessing
-- Feature engineering
-- Fraud classification
-- Model evaluation
-- Automated ML workflows
-- MLOps with SageMaker Python SDK
-- Reproducible and scalable pipelines
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🔬 [Surface Defect Classification](https://github.com/basmalaazabmohamed-commits)
+**Deep learning defect detection system**
+<br>
+`TensorFlow` `Keras` `EfficientNetB0` `FastAPI`
 
-## 🎤 HireSense AI — Multimodal Interview Feedback Analyzer
+Transfer-learning based classifier with real-time prediction API, confidence visualization, and a modern interactive frontend.
 
-A multimodal AI platform designed to analyze interview videos and generate
-AI-powered candidate performance insights.
+</td>
+<td width="50%" valign="top">
 
-**AI Components**
+### 🌱 [Soil Moisture Prediction](https://github.com/basmalaazabmohamed-commits)
+**Satellite data ML pipeline — AWS**
+<br>
+`Random Forest` `XGBoost` `Gradient Boosting`
 
-`Whisper` · `OpenCV` · `DeepFace` · `NLP` · `Computer Vision` · `LLMs`
+Full workflow from EDA and anomaly detection through feature engineering, model training, and evaluation on satellite soil-moisture data.
 
-**Features**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- Speech transcription
-- Communication analysis
-- Facial emotion analysis
-- Sentiment analysis
-- Confidence assessment
-- AI-generated interview feedback
-- Interactive dashboard
+### 🎵 [SkyVibe Beats](https://github.com/basmalaazabmohamed-commits)
+**Context-aware AI music recommender**
+<br>
+`LLMs` `AI Agents` `Spotify API`
 
-**Backend & ML**
+Agent-based recommendation engine using weather, mood, time, and location context with an LLM-powered conversational layer.
 
-`FastAPI` · `TensorFlow`
+</td>
+<td width="50%" valign="top">
 
----
+### 🤖 [SAMI — AI Learning Assistant](https://github.com/basmalaazabmohamed-commits)
+**Built for C-Learn Hub**
+<br>
+`Gemini` `Streamlit` `LLM`
 
-## 🔬 Surface Defect Classification System
+Conversational assistant that simplifies programming concepts and generates code in real time for learners.
 
-Deep learning system for automated surface defect classification.
-
-**Technologies**
-
-`Python` · `TensorFlow` · `Keras` · `EfficientNetB0` · `FastAPI` · `OpenCV`
-
-**Highlights**
-
-- Image preprocessing
-- Data augmentation
-- Transfer learning
-- EfficientNetB0
-- Real-time prediction API
-- Prediction confidence visualization
-- Modern interactive frontend
-
----
-
-## 🌱 Soil Moisture Prediction — AWS
-
-End-to-end machine learning pipeline using satellite soil moisture data.
-
-**Machine Learning Models**
-
-`Random Forest` · `XGBoost` · `Gradient Boosting`
-
-**Workflow**
-
-`EDA → Anomaly Detection → Feature Engineering → Model Training → Evaluation`
-
----
-
-## 🎵 SkyVibe Beats — AI Music Recommendation System
-
-Context-aware AI music recommendation system using environmental and
-personal context.
-
-**Context Signals**
-
-`Weather` · `User Mood` · `Time` · `Location`
-
-**Technologies**
-
-`Machine Learning` · `LLMs` · `AI Agents` · `Spotify API`
-
-**Features**
-
-- Context-aware recommendations
-- Agent-based architecture
-- LLM-powered conversational AI
-- Intelligent Spotify search
-- Personalized music discovery
-
----
-
-## 🤖 SAMI — AI Learning Assistant
-
-AI-powered learning assistant developed for **C-Learn Hub**.
-
-**Technologies**
-
-`Gemini` · `Streamlit` · `LLM` · `Python`
-
-**Features**
-
-- Simplified programming explanations
-- Code generation
-- Real-time AI assistance
-- Educational conversational interface
-- Integration with C-Learn Hub
-
----
-
-## 📝 AI Report Generation
-
-AI-powered report generation system using the Gemini API.
-
-**Technologies**
-
-`Python` · `Gemini API` · `NLP`
-
-**Features**
-
-- User-defined topics
-- Custom prompts
-- Configurable word count
-- Structured report generation
-- Automated content creation
-
----
-
-# 🏆 Achievements
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-🥉 **3rd Place — IEEE IC-SIT 2025 Competition**
-
-🏅 **AWS AI & ML Scholars Program**
-
-🚀 **Manus Hackathon Cairo — Participant**
-
-📊 **BCG Data Science Job Simulation — Forage**
+### 📝 [AI Report Generation](https://github.com/basmalaazabmohamed-commits)
+`Python` `Gemini API` `NLP` — Generates structured, configurable-length reports from user-defined topics and prompts.
 
 </div>
 
----
+<br>
 
-# ☁️ AWS AI & ML Scholarship
+## 🏆 Achievements
 
-### AWS & Udacity — AI & ML Scholar
+<div align="center">
 
-Selected for the **AWS AI & ML Scholars Program** in collaboration with
-AWS and Udacity.
+| 🏅 | Achievement |
+|:---:|---|
+| 🥉 | **3rd Place** — IEEE IC-SIT 2025 Competition |
+| 🎓 | **AWS AI & ML Scholars Program** |
+| 🚀 | **Manus Hackathon Cairo** — Participant |
+| 📊 | **BCG Data Science Job Simulation** — Forage |
 
-Currently developing practical skills in:
+</div>
 
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Amazon SageMaker AI
-- SageMaker Studio
-- ML Pipelines
-- SageMaker Python SDK
-- MLOps
-- Cloud-based AI deployment
+<br>
 
----
+## ☁️ AWS AI & ML Scholarship
 
-# 📜 Certifications
+<img align="right" src="https://img.shields.io/badge/AWS-Scholar-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" width="140"/>
+
+Selected for the **AWS AI & ML Scholars Program**, delivered in collaboration with AWS and Udacity — building practical, cloud-native AI skills:
+
+`Machine Learning` · `Deep Learning` · `Generative AI` · `Amazon SageMaker AI` · `SageMaker Studio` · `ML Pipelines` · `SageMaker Python SDK` · `MLOps`
+
+<br clear="right"/>
+
+## 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Amazon%20SageMaker%20Studio%20for%20Data%20Scientists-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-LLM%20Course-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-ML%20Workflows%20with%20SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20%26%20Udacity-AI%20Practitioner%20Challenge-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20%26%20Sprints-AI%20%26%20Machine%20Learning-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/NVIDIA-Building%20LLM%20Apps%20with%20Prompt%20Eng.-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/NTI%20%26%20ITIDA-AI%20for%20Business-1E90FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/NVIDIA-Deep%20Learning%20Fundamentals-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Huawei%20%26%20NTI-HCIA--AI%20v3.5-FF0000?style=flat-square&logo=huawei&logoColor=white"/>
+
+</div>
+
+<br>
 
 | Certification | Organization | Year |
-|---|---|---|
+|---|:---:|:---:|
 | Amazon SageMaker Studio for Data Scientists | AWS | 2026 |
 | LLM Course | Hugging Face | 2026 |
 | ML Workflows with SageMaker, Storage & Security | AWS | 2026 |
@@ -305,153 +225,76 @@ Currently developing practical skills in:
 | Deep Learning Fundamentals | NVIDIA | 2025 |
 | HCIA-AI v3.5 | Huawei & NTI | 2024 |
 
----
+<br>
 
-# 🛠️ Technical Skills
+## 💼 Professional Experience
 
-### Programming
-
-`Python` · `R` · `C++` · `Java` · `JavaScript` · `TypeScript`
-
-### AI / ML
-
-`TensorFlow` · `PyTorch` · `Scikit-learn` · `Transformers`
-
-`Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision`
-
-### Generative AI
-
-`LLMs` · `Prompt Engineering` · `Gemini API` · `Whisper`
-
-### Data
-
-`Pandas` · `NumPy` · `SQL` · `Power BI`
-
-### Cloud & MLOps
-
-`AWS` · `Amazon SageMaker` · `SageMaker Pipelines`
-
-`Docker` · `ML Pipelines` · `Model Deployment`
-
-### Frameworks & Tools
-
-`FastAPI` · `Streamlit` · `OpenCV` · `DeepFace`
-
-`React Native` · `Windows Forms` · `Git` · `GitHub`
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=basmalaazabmohamed-commits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmalaazabmohamed-commits&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=basmalaazabmohamed-commits&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🌐 Languages
-
-🇪🇬 **Arabic** — Native
-
-🇬🇧 **English** — B2 Upper-Intermediate
-
----
-
-# 🎓 Education
-
-### Al-Ryada University for Science and Technology
-
-**Bachelor of Computer and Artificial Intelligence**
-
-📍 Sadat City, Egypt
-
-**2023 – 2027**
-
-**GPA: 3.68 / 4.00**
-
-Focus Areas:
-
-`Artificial Intelligence` · `Machine Learning` · `Deep Learning`
-
-`Transformers` · `Data Science` · `Data Analysis`
-
-`Algorithms` · `Data Structures` · `Databases`
-
----
-
-# 💼 Professional Experience
-
-### RWS — Freelance Speech AI Evaluation Specialist
-
-- Evaluated AI speech outputs for quality, accuracy, and naturalness.
-- Annotated and reviewed speech data following project guidelines.
-- Reported issues and provided feedback to improve speech AI models.
-- Ensured consistent and high-quality AI evaluations.
-
----
-
-# 📚 Learning & Development
-
-Currently expanding my expertise in:
-
-**Generative AI • MLOps • AWS • LLM Applications • AI Agents • Deep Learning**
-
-I'm continuously building projects to transform theoretical knowledge
-into practical AI solutions.
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-I'm open to connecting with people interested in:
-
-**AI Engineering · Data Science · Machine Learning · Generative AI · MLOps**
+**RWS — Freelance Speech AI Evaluation Specialist**
+- Evaluated AI speech outputs for quality, accuracy, and naturalness
+- Annotated and reviewed speech data following project guidelines
+- Reported issues and provided feedback to improve speech AI models
+- Ensured consistent, high-quality AI evaluations
 
 <br>
 
-<a href="mailto:Basmala.azab.mohamed@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## 🎓 Education
 
-<a href="https://www.linkedin.com/in/basmala-azab-931a56314/">
-<img src="https://img.shields.io/badge/LinkedIn-Basmala%20Azab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Al-Ryada University for Science and Technology**
+Bachelor of Computer and Artificial Intelligence — Sadat City, Egypt
+📅 2023 – 2027  |  🎯 GPA: 3.68 / 4.00
 
-<a href="https://huggingface.co/Basmala11">
-<img src="https://img.shields.io/badge/Hugging%20Face-Basmala11-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</a>
-
-<a href="https://basmalaazabmohamed-commits.github.io/Portfolio">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### "Turning data into intelligence and ideas into AI solutions."
+`Artificial Intelligence` `Machine Learning` `Deep Learning` `Transformers` `Data Science` `Data Analysis` `Algorithms` `Data Structures` `Databases`
 
 <br>
 
-⭐ If you find my projects interesting, feel free to explore my repositories!
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=basmalaazabmohamed-commits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6C63FF&icon_color=6C63FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmalaazabmohamed-commits&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF" height="165"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=basmalaazabmohamed-commits&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FFD21E" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=basmalaazabmohamed-commits&theme=tokyo-night&hide_border=true&area=true&color=6C63FF&line=0A66C2" width="98%"/>
 
 </div>
-```
+
+<br>
+
+## 🌐 Languages
+
+<div align="center">
+
+| 🇪🇬 Arabic | 🇬🇧 English |
+|:---:|:---:|
+| Native | B2 — Upper-Intermediate |
+
+</div>
+
+<br>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to connecting on **AI Engineering · Data Science · Machine Learning · Generative AI · MLOps**
+
+<a href="mailto:Basmala.azab.mohamed@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/basmala-azab-931a56314/"><img src="https://img.shields.io/badge/LinkedIn-Basmala%20Azab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://huggingface.co/Basmala11"><img src="https://img.shields.io/badge/Hugging%20Face-Basmala11-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+<a href="https://basmalaazabmohamed-commits.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
+<br><br>
+
+### *"Turning data into intelligence and ideas into AI solutions."*
+
+⭐ If you find my work interesting, feel free to explore my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6C63FF&height=100&section=footer" width="100%"/>
+
+</div>
