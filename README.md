@@ -4,6 +4,10 @@
 
 <br>
 
+<img src="https://github.com/basmalaazabmohamed-commits.png" width="150" height="150" style="border-radius:50%;" alt="Basmala Azab Mohamed"/>
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+with+AI;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Computer+Vision+%7C+NLP+%7C+AWS+MLOps;Turning+Data+into+Real-World+Solutions" alt="Typing SVG" />
 
 <br><br>
@@ -251,18 +255,20 @@ Bachelor of Computer and Artificial Intelligence — Sadat City, Egypt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=basmalaazabmohamed-commits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6C63FF&icon_color=6C63FF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmalaazabmohamed-commits&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=basmalaazabmohamed-commits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6C63FF&icon_color=6C63FF" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmalaazabmohamed-commits&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF" height="165" alt="Top Languages"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=basmalaazabmohamed-commits&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FFD21E" />
+<img src="https://streak-stats.demolab.com?user=basmalaazabmohamed-commits&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FFD21E" alt="GitHub Streak"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=basmalaazabmohamed-commits&theme=tokyo-night&hide_border=true&area=true&color=6C63FF&line=0A66C2" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=basmalaazabmohamed-commits&theme=tokyo-night&hide_border=true&area=true&color=6C63FF&line=0A66C2" width="98%" alt="Activity Graph"/>
 
 </div>
+
+> 💡 If any card above shows a broken image, it's the free public server being overloaded — not your README. See troubleshooting notes below.
 
 <br>
 
