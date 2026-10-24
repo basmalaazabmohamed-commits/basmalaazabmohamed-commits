@@ -123,13 +123,14 @@ Automated fraud classification pipeline covering EDA, feature engineering, model
 ### 🎤 [HireSense AI](https://github.com/basmalaazabmohamed-commits)
 **Multimodal Interview Feedback Analyzer**
 <br>
-`Whisper` `OpenCV` `DeepFace` `FastAPI` `TensorFlow`
+`Whisper` `OpenCV` `FastAPI` `TensorFlow` `NLP`
 
-Analyzes interview videos end-to-end: speech transcription, facial emotion analysis, sentiment scoring, and AI-generated feedback on an interactive dashboard.
+Analyzes interview recordings through speech transcription, facial emotion analysis, sentiment scoring, and AI-generated feedback presented through an interactive dashboard.
 
 </td>
 </tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### 🧠 [CareerLens — AI-Powered Career Intelligence](https://github.com/basmalaazabmohamed-commits/CareerLens)
@@ -137,12 +138,9 @@ Analyzes interview videos end-to-end: speech transcription, facial emotion analy
 <br>
 `Python` `FastAPI` `React` `TypeScript` `Gemini API` `FAISS` `BM25` `RAG`
 
-Hybrid job retrieval system combining semantic search, BM25, Reciprocal Rank Fusion (RRF), and Cross-Encoder reranking. Features structured CV analysis, evidence-grounded skill gap assessment, personalized recommendations, and an interactive AI career assistant.
+Hybrid job retrieval combining semantic search, BM25, Reciprocal Rank Fusion (RRF), and Cross-Encoder reranking. Features structured CV analysis, evidence-grounded skill gap assessment, personalized recommendations, and an interactive AI career assistant.
 
 </td>
-<td width="50%" valign="top">
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🔬 [Surface Defect Classification](https://github.com/basmalaazabmohamed-commits)
@@ -150,21 +148,22 @@ Hybrid job retrieval system combining semantic search, BM25, Reciprocal Rank Fus
 <br>
 `TensorFlow` `Keras` `EfficientNetB0` `FastAPI`
 
-Transfer-learning based classifier with real-time prediction API, confidence visualization, and a modern interactive frontend.
+Transfer-learning-based classifier with a prediction API, confidence visualization, and an interactive frontend.
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🌱 [Soil Moisture Prediction](https://github.com/basmalaazabmohamed-commits)
 **Satellite data ML pipeline — AWS**
 <br>
-`Random Forest` `XGBoost` `Gradient Boosting`
+`Random Forest` `XGBoost` `Gradient Boosting` `AWS`
 
-Full workflow from EDA and anomaly detection through feature engineering, model training, and evaluation on satellite soil-moisture data.
+End-to-end workflow covering EDA, anomaly detection, feature engineering, model training, and evaluation on satellite soil-moisture data.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎵 [SkyVibe Beats](https://github.com/basmalaazabmohamed-commits)
@@ -175,6 +174,9 @@ Full workflow from EDA and anomaly detection through feature engineering, model 
 Agent-based recommendation engine using weather, mood, time, and location context with an LLM-powered conversational layer.
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 [SAMI — AI Learning Assistant](https://github.com/basmalaazabmohamed-commits)
@@ -185,13 +187,23 @@ Agent-based recommendation engine using weather, mood, time, and location contex
 Conversational assistant that simplifies programming concepts and generates code in real time for learners.
 
 </td>
+<td width="50%" valign="top">
+
+### 📝 [AI Report Generation](https://github.com/basmalaazabmohamed-commits)
+**AI-powered report generation**
+<br>
+`Python` `Gemini API` `NLP`
+
+Generates structured reports with configurable lengths based on user-defined topics and prompts.
+
+</td>
 </tr>
 </table>
 
-<div align="center">
+</details>
 
-### 📝 [AI Report Generation](https://github.com/basmalaazabmohamed-commits)
-`Python` `Gemini API` `NLP` — Generates structured, configurable-length reports from user-defined topics and prompts.
+
+
 
 </div>
 
