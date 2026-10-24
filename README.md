@@ -129,6 +129,19 @@ Analyzes interview videos end-to-end: speech transcription, facial emotion analy
 
 </td>
 </tr>
+
+<td width="50%" valign="top">
+
+### 🧠 [CareerLens — AI-Powered Career Intelligence](https://github.com/basmalaazabmohamed-commits/CareerLens)
+**End-to-end RAG career intelligence platform**
+<br>
+`Python` `FastAPI` `React` `TypeScript` `Gemini API` `FAISS` `BM25` `RAG`
+
+Hybrid job retrieval system combining semantic search, BM25, Reciprocal Rank Fusion (RRF), and Cross-Encoder reranking. Features structured CV analysis, evidence-grounded skill gap assessment, personalized recommendations, and an interactive AI career assistant.
+
+</td>
+<td width="50%" valign="top">
+
 <tr>
 <td width="50%" valign="top">
 
